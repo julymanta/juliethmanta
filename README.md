@@ -1,4 +1,3 @@
-# juliethmanta
 # Hi there, I'm Julieth 👋
 
 [![Language: English](https://img.shields.io/badge/Language-English-blue.svg)](#)
